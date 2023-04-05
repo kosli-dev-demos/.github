@@ -15,4 +15,4 @@ Wanna get straight to the code? We suggest starting with the [Using Kosli] repo.
 
 ## Questions, Comments, or Concerns?
 
-Let's chat. You can get ahold of us here -> [info@kosli.com](mailto:info@kosli.com)
+Let's chat. You can get ahold of us here -> [Dev Demos](mailto:dev-demos@kosli.com)
